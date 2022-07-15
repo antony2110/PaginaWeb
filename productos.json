@@ -1,0 +1,77 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Takis Fuego",
+            "price": 2,
+            "image":"https://m.media-amazon.com/images/I/81MZnOeDrwS._SL1500_.jpg",
+            "category": "rolex"
+        },
+        {
+            "id": 2,
+            "title": "Pockys",
+            "price": 4,
+            "image": "https://cdnx.jumpseller.com/the-nekojita-club/image/18356435/resize/540/540?1650937582",
+            "category": "omega"
+        },
+        {
+            "id": 3,
+            "title": "Chocolate Wonka",
+            "price": 5.50,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_722651-MEC50520793497_062022-W.jpg",
+            "category": "audemars"
+        },
+        {
+            "id": 4,
+            "title": "Stroopwafels",
+            "price": 3.20,
+            "image": "https://www.ubuy.ec/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFCMVJtd2J0S1MuX1NMMTUwMF8uanBn.jpg",
+            "category": "hublot"
+        },
+        {
+            "id": 5,
+            "title": "Tamarind",
+            "price": 6,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_706446-MLM41947829170_052020-W.jpg",
+            "category": "rolexDay"
+
+        },
+        {
+            "id": 6,
+            "title": "Dulce de algas",
+            "price": 5.70,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHQ-ThOYRFiTxVcDmCxlATBVuYc15BKnggioMvCoP5FF6ZDhb-i4HjULDkqah8qhdkUY&usqp=CAU",
+            "category": "rolexDay"
+
+        },
+        {
+            "id": 7,
+            "title": "Pulparindos",
+            "price": 11,
+            "image": "https://cdn.shopify.com/s/files/1/0430/5489/1157/products/Disenosintitulo-2021-05-21T111139.308_900x.png?v=1621905485",
+            "category": "rolex"
+        },
+        {
+            "id": 8,
+            "title": "Tohato chocobi ",
+            "price": 12,
+            "image": "https://www.japonshop.com/min/img/productos/prd-galletas-shin-chan-chocobi-japonshop_1.jpg",
+            "category": "omega"
+        },
+        {
+            "id": 9,
+            "title": "Chocolate MrBeats",
+            "price": 2.80,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_943224-MLM49285698086_032022-W.jpg",
+            "category": "audemars"
+        },
+        {
+            "id": 10,
+            "title": "Napoleon",
+            "price": 10,
+            "image": "https://m.media-amazon.com/images/I/81Rl0c7ttxL._SX679_.jpg",
+            "category": "hublot"
+        }
+
+    ]
+}
